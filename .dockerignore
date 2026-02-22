@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+.env
+.git
+.gitignore
+*.md
+backend/data
+backend/uploads
+frontend/dist
+frontend/.vite
+.DS_Store

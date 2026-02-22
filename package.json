@@ -1,0 +1,13 @@
+{
+  "name": "orderflow",
+  "version": "2.0.0",
+  "description": "System zarządzania zleceniami produkcyjnymi",
+  "scripts": {
+    "build": "./build.sh",
+    "start": "./start.sh",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev"
+  },
+  "keywords": ["orderflow", "production", "workflow"],
+  "private": true
+}
